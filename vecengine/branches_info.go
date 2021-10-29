@@ -1,8 +1,8 @@
 package vecengine
 
 import (
-	"github.com/Fantom-foundation/lachesis-base/inter/idx"
-	"github.com/Fantom-foundation/lachesis-base/inter/pos"
+	"github.com/Ecosystem-Knowledge/lachesis-base/inter/idx"
+	"github.com/Ecosystem-Knowledge/lachesis-base/inter/pos"
 )
 
 // BranchesInfo contains information about global branches of each validator

@@ -5,13 +5,13 @@ import (
 
 	"github.com/ethereum/go-ethereum/common"
 
-	"github.com/Fantom-foundation/lachesis-base/abft/dagidx"
-	"github.com/Fantom-foundation/lachesis-base/hash"
-	"github.com/Fantom-foundation/lachesis-base/inter/dag"
-	"github.com/Fantom-foundation/lachesis-base/inter/idx"
-	"github.com/Fantom-foundation/lachesis-base/inter/pos"
-	"github.com/Fantom-foundation/lachesis-base/kvdb"
-	"github.com/Fantom-foundation/lachesis-base/lachesis"
+	"github.com/Ecosystem-Knowledge/lachesis-base/abft/dagidx"
+	"github.com/Ecosystem-Knowledge/lachesis-base/hash"
+	"github.com/Ecosystem-Knowledge/lachesis-base/inter/dag"
+	"github.com/Ecosystem-Knowledge/lachesis-base/inter/idx"
+	"github.com/Ecosystem-Knowledge/lachesis-base/inter/pos"
+	"github.com/Ecosystem-Knowledge/lachesis-base/kvdb"
+	"github.com/Ecosystem-Knowledge/lachesis-base/lachesis"
 )
 
 var _ lachesis.Consensus = (*IndexedLachesis)(nil)

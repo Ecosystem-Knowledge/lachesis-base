@@ -3,9 +3,9 @@ package abft
 import (
 	"errors"
 
-	"github.com/Fantom-foundation/lachesis-base/abft/election"
-	"github.com/Fantom-foundation/lachesis-base/inter/idx"
-	"github.com/Fantom-foundation/lachesis-base/inter/pos"
+	"github.com/Ecosystem-Knowledge/lachesis-base/abft/election"
+	"github.com/Ecosystem-Knowledge/lachesis-base/inter/idx"
+	"github.com/Ecosystem-Knowledge/lachesis-base/inter/pos"
 )
 
 const (

@@ -5,11 +5,11 @@ import (
 	"sync"
 	"time"
 
-	"github.com/Fantom-foundation/lachesis-base/gossip/dagstream"
-	"github.com/Fantom-foundation/lachesis-base/gossip/dagstream/streamleecher/peerleecher"
-	"github.com/Fantom-foundation/lachesis-base/hash"
-	"github.com/Fantom-foundation/lachesis-base/inter/dag"
-	"github.com/Fantom-foundation/lachesis-base/inter/idx"
+	"github.com/Ecosystem-Knowledge/lachesis-base/gossip/dagstream"
+	"github.com/Ecosystem-Knowledge/lachesis-base/gossip/dagstream/streamleecher/peerleecher"
+	"github.com/Ecosystem-Knowledge/lachesis-base/hash"
+	"github.com/Ecosystem-Knowledge/lachesis-base/inter/dag"
+	"github.com/Ecosystem-Knowledge/lachesis-base/inter/idx"
 )
 
 // Leecher is responsible for requesting events based on lexicographic event streams

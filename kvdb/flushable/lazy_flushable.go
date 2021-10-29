@@ -1,8 +1,8 @@
 package flushable
 
 import (
-	"github.com/Fantom-foundation/lachesis-base/kvdb"
-	"github.com/Fantom-foundation/lachesis-base/kvdb/devnulldb"
+	"github.com/Ecosystem-Knowledge/lachesis-base/kvdb"
+	"github.com/Ecosystem-Knowledge/lachesis-base/kvdb/devnulldb"
 )
 
 // LazyFlushable is a Flushable with delayed DB producer
